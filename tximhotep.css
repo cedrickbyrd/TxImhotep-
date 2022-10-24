@@ -1,0 +1,16 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: lightblue;
+  background-color: darkgray;
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+}
+
